@@ -6,6 +6,8 @@
 
 Технологии: Vue2, Axios.
 
+Ссылка на сайт: https://stasokulov.github.io/modesto_test_task/
+
 ## Project setup
 ```
 npm install
